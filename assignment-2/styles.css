@@ -1,0 +1,33 @@
+.container{
+    background-color:none;
+    width: 362px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin: 50px auto;
+   
+}
+.header{
+    padding: 30px 20px;
+}
+
+img{
+    width:70px;
+    height: 70px;
+    border-radius: 50%;
+    
+    
+}
+.img1{
+    margin-left:35px;
+}
+.img2{
+    margin-left:65px;
+}
+.footer{
+   border-top:1px solid lightgray;
+   padding-left:20px;
+   
+}
+.footer p{
+    color:blue;
+}

@@ -1,0 +1,42 @@
+.container{
+
+    width: 440px;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    margin: 50px auto;
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    height: 215px;
+    object-fit: cover;
+    
+}
+.container .card{
+    padding: 40px 60px;
+}
+.card .logo{
+    width: 20px;
+    height: 20px;
+    padding-right: 15px;
+}
+h1{
+    font-size:22px;
+}
+.card .text{
+    font-size: 17px;
+}
+.btn{
+    
+    background-color: white ;
+    color: #3b82f6;
+    padding: 10px 17px;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: 20px;
+    width:150px;
+    box-sizing: border-box;
+}

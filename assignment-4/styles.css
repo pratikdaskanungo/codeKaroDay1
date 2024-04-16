@@ -1,0 +1,41 @@
+.container{
+    width: 600px;
+    border-top: 1px solid lightgrey;
+    text-align: center;
+    margin:150px auto;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.input{
+    width: 50%;
+    margin-bottom: 12px;
+    padding: 13px;
+    box-sizing: border-box;
+    border-radius: 12px;
+    border: 1px solid lightgray;
+    font-size: 12px;
+}
+.pass{
+    margin-left: -30px;
+    font-size: 10px;
+}
+.login-btn{
+    background-color: black;
+    color: white;
+    padding: 13px 30px;
+    border-radius: 35px;
+    border: none;
+    font-size: 12px;
+    width: 180px;
+    box-sizing: border-box;
+}
+.mid{
+    margin-top:40px;
+    font-size: 12px;
+}
+.footer{
+    margin-top:40px;
+    font-size: 12px;
+}
